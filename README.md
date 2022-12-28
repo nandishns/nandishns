@@ -1,4 +1,7 @@
-<h1 align="center" style="color: cyan;">Hi, Nandish here 👋</h1>
+<img width="1000" height='250' alt="Banner" src="https://user-images.githubusercontent.com/92267208/209849349-03153501-9908-4412-8d8f-9092b4e9685b.png">
+
+
+<h1 align="center" style="color: cyan;">Hi,There 👋</h1>
 
 <p align="center" style="display: inline">
 <img src="https://img.shields.io/github/followers/nandish2021?style=for-the-badge">
@@ -11,8 +14,8 @@
 
 
 - 🏫 Persuing B.Tech in Computer Science And Engineering at [PES University, Bangalore](https://www.pes.edu). <br><Br>
--🌱 I’m currently learning **Machine Learning , MERN , Computer Visiom**
-- 👨‍💻 All of my projects are available at [https://github.com/Nandish2021](https://github.com/Nandish2021)
+-🌱 I’m currently learning **Machine Learning , MERN, React Native , Computer Visiom**
+- 👨‍💻 My Porfolio Website : https://nandishns.netlify.app
 - 📫 How to reach me **ns.nandish2003@gmail.com**
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.
 - 💻 Intrested Domain : ```App development , Web Development ,Machine Learning ```  
