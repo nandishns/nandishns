@@ -1,4 +1,4 @@
-<img width="1000" height='250' alt="Banner" src="https://user-images.githubusercontent.com/92267208/209849349-03153501-9908-4412-8d8f-9092b4e9685b.png">
+<center><img width="900"  alt="Banner" src="https://user-images.githubusercontent.com/92267208/209849349-03153501-9908-4412-8d8f-9092b4e9685b.png"><center>
 
 
 <h1 align="center" style="color: cyan;">Hi,There 👋</h1>
@@ -22,6 +22,11 @@
 - 👯 I am open for collaboration with creators, developers and tech enthusiasts.
 - 🚢 Keen on up-skilling and putting it to use.<br><br>
 
+ <h2>My Technical Skills <h2>
+  <h3> Languages and Framework </h3>
+   <img src='https://skillicons.dev/icons?i=c,cpp,py,html,css,js,mongodb,django,flutter,dart,firebase,md,nextjs,redis,redux,regex,jquery,express,tensorflow,nodejs,tailwind,bootstrap,react,figma&theme=dark&perline=10' alt='skills'>
+   <h3> Tools & Software </h3>
+    <img src='https://skillicons.dev/icons?i=vscode,codepen,cloudflare,netlify,unity,materialui,raspberrypi,androidstudio,wordpress,githubactions,svg,heroku,arduino,vercel,git,ps,linux,pr,github&theme=dark&perline=10' slt='skills' >
 <b><h3>🏆Trophies</h3>
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=nandish2021&column=7&theme=algolia&no-frame=true"/>
  
