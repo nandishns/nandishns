@@ -4,8 +4,8 @@
 <h1 align="center" style="color: cyan;">Hi,There 👋</h1>
 
 <p align="center" style="display: inline">
-<img src="https://img.shields.io/github/followers/nandish2021?style=for-the-badge">
-<img src="https://img.shields.io/github/stars/nandish2021?style=for-the-badge">
+<img src="https://img.shields.io/github/followers/nandishns?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/nandishns?style=for-the-badge">
 <br>
 
 
@@ -28,18 +28,18 @@
    <h3> Tools & Software </h3>
     <img src='https://skillicons.dev/icons?i=vscode,codepen,cloudflare,netlify,unity,materialui,raspberrypi,androidstudio,wordpress,githubactions,svg,heroku,arduino,vercel,git,ps,linux,pr,github&theme=dark&perline=10' slt='skills' >
 <b><h3>🏆Trophies</h3>
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=nandish2021&column=7&theme=algolia&no-frame=true"/>
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=nandishns&column=7&theme=algolia&no-frame=true"/>
  
 <b>
 <hr></hr>
 
 ### GitHub Stats
-<p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=nandish2021&theme=nord" alt="adithya-s-k" /></p>
-<p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=nandish2021&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
+<p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=nandishns&theme=nord" alt="nandishns" /></p>
+<p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=nandishns&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
 
-<p><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandish2021&langs_count=6&layout=compact&theme=nord" /></p>
+<p><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandishns&langs_count=6&layout=compact&theme=nord" /></p>
 
-<p><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nandish2021&theme=nord"/></p>
+<p><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nandishns&theme=nord"/></p>
 
 <h3> Connect Me </h3>
 <a href="https://www.linkedin.com/in/nandish-n-s/"><img src="https://img.shields.io/badge/-Nandish-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandish-n-s)](https://www.linkedin.com/in/nandish-n-s/"></a>
